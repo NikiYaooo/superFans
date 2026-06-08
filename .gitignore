@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+.vs/
+*.user
+*.pdb
+*.suo
+.DS_Store
+CLAUDE.md
+.claude/
